@@ -1,5 +1,9 @@
-# 👋 Hi, I'm Pavan Kumar Reddy  
-### Data Analyst | Data Scientist | Machine Learning Enthusiast
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Zenfection/more-gifs/main/website/constellation.svg" width="100%" />
+</p>
+
+<h1 align="center">Hey There, I'm G Pavan Kumar Reddy 👋</h1>
+<h3 align="center">Data Analyst | Data Scientist | Machine Learning Enthusiast</h3>
 
 ## 🚀 About Me
 
