@@ -7,7 +7,7 @@
 [![Email](https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gudurupavanpavankumarreddy@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Gudurupavankumarreddy)
 
-![Profile Views](https://komarev.com/ghpvc/?username=Gudurupavankumarreddy&color=0e75b6&style=for-the-badge&label=PROFILE+VIEWS)
+
 
 </div>
 
