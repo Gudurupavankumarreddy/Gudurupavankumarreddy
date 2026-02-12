@@ -116,7 +116,7 @@ pavan = {
 
 ---
 
-### 🔹 [💳 Credit Card Fraud Detection](https://github.com/Gudurupavankumarreddy) *(In Progress)*
+### 🔹 💳 Credit Card Fraud Detection *(In Progress)*
 > *ML model with imbalance handling + FastAPI deployment*
 
 - PCA dimensionality reduction, SMOTE oversampling, model tuning
@@ -126,31 +126,33 @@ pavan = {
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Activity
 
 <div align="center">
 
-![Pavan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Gudurupavankumarreddy&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Gudurupavankumarreddy&layout=compact&theme=tokyonight&hide_border=true)
+| 🏆 Total Repos | ⭐ Focus Area | 🔥 Top Language | 📅 Active Since |
+|---|---|---|---|
+| Check Profile | Data Analytics & ML | Python | 2025 |
 
 </div>
 
+> 💡 *Visit my pinned repositories below to see my best work!*
+
 ---
 
-## 🏆 Certifications & Experience
+## 🏆 Experience & Certifications
 
 | | |
 |---|---|
 | 🏢 **Data Analytics Intern** | Cedura · Dec 2025 – Feb 2026 |
-| 📜 **Internship Certificate** | Model Building · Content Prep · Report Generation |
+| 📜 **Internship Certificate** | Model Building · Content Preparation · Report Generation |
 
 ---
 
 <div align="center">
 
-### 💬 "I don't just analyze data — I turn it into decisions."
+### 💬 *"I don't just analyze data — I turn it into decisions."*
 
-*⭐ If you find my work useful, feel free to star a repo — it means a lot!*
+*⭐ If you find my work useful, feel free to star a repo!*
 
 </div>
