@@ -138,14 +138,6 @@ pavan = {
 
 > 💡 *Visit my pinned repositories below to see my best work!*
 
----
-
-## 🏆 Experience & Certifications
-
-| | |
-|---|---|
-| 🏢 **Data Analytics Intern** | Cedura · Dec 2025 – Feb 2026 |
-| 📜 **Internship Certificate** | Model Building · Content Preparation · Report Generation |
 
 ---
 
