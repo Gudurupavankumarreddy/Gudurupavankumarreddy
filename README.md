@@ -64,7 +64,7 @@
 | **[Telecom Customer Churn Prediction](https://github.com/Gudurupavankumarreddy/Telecom-Customer-Retention-Analysis)** | Random Forest, XGBoost, SHAP, Streamlit, FastAPI | 79% accuracy · risk-tiered scoring · multi-page dashboard on IBM Telco dataset (7,043 customers) |
 | **[Credit Card Fraud Detection](https://github.com/Gudurupavankumarreddy/Credit-Card-Fraud-Detection)** | Isolation Forest + XGBoost, DuckDB, Streamlit, FastAPI | Two-stage anomaly + classification model · $64.3M fraud analyzed, ~96% value captured |
 | **[Bird SQL Agent](https://github.com/Gudurupavankumarreddy/bird-sql-agent)** | PostgreSQL, Groq API (Llama 3.1 8B) | 5-agent Text-to-SQL pipeline · 45.8% execution accuracy on BIRD-SQL benchmark |
-| **[Walmart Retail Sales Analysis](https://github.com/Gudurupavankumarreddy/Walmart-Retail-Sales-Analysis** | Python, MySQL, Power BI | Sales trend analysis and BI reporting on retail transaction data |
+| **[Walmart Retail Sales Analysis](https://github.com/Gudurupavankumarreddy/Walmart-Retail-Sales-Analysis)** | Python, MySQL, Power BI | Sales trend analysis and BI reporting on retail transaction data |
 | **[Pizza Sales KPI Dashboard](https://github.com/Gudurupavankumarreddy/Pizza-Sales--Analysis)** | SQL (CTEs, window functions), Power BI | Automated reporting + interactive KPI tracking |
 | **[Heart Disease Analysis Dashboard](https://github.com/Gudurupavankumarreddy/Heart-Disease-Analysis)** | Power BI | Survival analysis by age/gender with clinical risk factor flow |
 | **[NSE Stock Market Data Pipeline](https://github.com/Gudurupavankumarreddy/Indian-Stock-Market-Analysis)** | Python, yfinance, MySQL, Power BI, Prophet/ARIMA | End-to-end ingestion → forecasting → BI reporting |
