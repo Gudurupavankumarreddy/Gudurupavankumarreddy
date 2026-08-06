@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6D28D9,50:9333EA,100:C026D3&height=260&section=header&text=PAVAN%20KUMAR%20REDDY&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Data%20Analyst%20%7C%20Aspiring%20Data%20Scientist&descAlignY=58&descSize=20" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6D28D9,50:9333EA,100:C026D3&height=260&section=header&text=PAVAN%20KUMAR%20REDDY&fontSize=44&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Software%20Engineer%20%7C%20Data%20Analyst%20%7C%20Aspiring%20Data%20Scientist&descAlignY=56&descSize=17" width="100%"/>
 
 <a href="https://pavan-data-portfolio.netlify.app">
   <img src="https://img.shields.io/badge/🌐-Visit%20My%20Portfolio-C026D3?style=for-the-badge&labelColor=1a1a2e" />
@@ -8,7 +8,7 @@
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2800&pause=900&color=C026D3&center=true&vCenter=true&width=650&lines=Turning+Raw+Data+Into+Business+Decisions;Python+%7C+SQL+%7C+Power+BI+%7C+Machine+Learning;Building+End-to-End+ML%2FAnalytics+Projects;Open+to+Data+Analyst+%2F+Data+Scientist+Roles" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2800&pause=900&color=C026D3&center=true&vCenter=true&width=650&lines=Turning+Raw+Data+Into+Business+Decisions;Software+Engineer+%7C+Python+%2F+SQL+%2F+APIs;Python+%7C+SQL+%7C+Power+BI+%7C+Machine+Learning;Building+End-to-End+ML%2FAnalytics+Projects;Open+to+Software+Engineer+%2F+Data+Analyst+Roles" />
 
 </div>
 
@@ -17,6 +17,7 @@
 ## 👋 About Me
 
 - 🎓 **B.Tech, Computer Science & Engineering** — Parul University (2021 – 2025)
+- 💻 Building as a **Software Engineer** at heart — comfortable across Python scripting, API development (FastAPI), SQL/database design, and Git-based workflows
 - 📊 Currently **Data Analyst Intern @ RupeeVyze Financial Services**, Bengaluru — working with insurance lead data and mentoring interns on Python-based web scraping
 - 🔍 Previously **Data Analytics Project Intern @ CeduraTech**, Hyderabad — model building, reporting, and analytical workflows
 - 🚀 Passionate about **data pipelines, predictive modeling, and dashboards that drive real decisions**
@@ -30,17 +31,15 @@
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=python,mysql,postgres,git,github,vscode,docker,fastapi,linux,html,css,js&theme=dark" />
+<img src="https://skillicons.dev/icons?i=python,mysql,postgres,git,github,fastapi&theme=dark" />
 
 <br/><br/>
 
 ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![scikit--learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
 ![XGBoost](https://img.shields.io/badge/XGBoost-0E7C7B?style=for-the-badge)
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
 ![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 
 </div>
 
@@ -62,13 +61,13 @@
 
 | Project | Stack | Highlights |
 |---|---|---|
-| **[Telecom Customer Churn Prediction](https://github.com/Gudurupavankumarreddy)** | Random Forest, XGBoost, SHAP, Streamlit, FastAPI | 79% accuracy · risk-tiered scoring · multi-page dashboard on IBM Telco dataset (7,043 customers) |
-| **Credit Card Fraud Detection** | Isolation Forest + XGBoost, DuckDB, Streamlit, FastAPI | Two-stage anomaly + classification model · $64.3M fraud analyzed, ~96% value captured |
-| **NSE Stock Market Data Pipeline** | Python, yfinance, MySQL, Power BI, Prophet/ARIMA | End-to-end ingestion → forecasting → BI reporting |
-| **Bird SQL Agent** | PostgreSQL, Groq API (Llama 3.1 8B) | 5-agent Text-to-SQL pipeline · 45.8% execution accuracy on BIRD-SQL benchmark |
-| **CineMatch** | sentence-transformers, ChromaDB, Groq API, FastAPI | RAG-based movie recommendation system |
-| **Pizza Sales KPI Dashboard** | T-SQL (CTEs, window functions), Power BI | Automated reporting + interactive KPI tracking |
-| **Heart Disease Analysis Dashboard** | Power BI | Survival analysis by age/gender with clinical risk factor flow |
+| **[Telecom Customer Churn Prediction](https://github.com/Gudurupavankumarreddy/Telecom-Customer-Retention-Analysis)** | Random Forest, XGBoost, SHAP, Streamlit, FastAPI | 79% accuracy · risk-tiered scoring · multi-page dashboard on IBM Telco dataset (7,043 customers) |
+| **[Credit Card Fraud Detection](https://github.com/Gudurupavankumarreddy/Credit-Card-Fraud-Detection)** | Isolation Forest + XGBoost, DuckDB, Streamlit, FastAPI | Two-stage anomaly + classification model · $64.3M fraud analyzed, ~96% value captured |
+| **[Bird SQL Agent](https://github.com/Gudurupavankumarreddy/bird-sql-agent)** | PostgreSQL, Groq API (Llama 3.1 8B) | 5-agent Text-to-SQL pipeline · 45.8% execution accuracy on BIRD-SQL benchmark |
+| **[Walmart Retail Sales Analysis](https://github.com/Gudurupavankumarreddy/Walmart-Retail-Sales-Analysis** | Python, MySQL, Power BI | Sales trend analysis and BI reporting on retail transaction data |
+| **[Pizza Sales KPI Dashboard](https://github.com/Gudurupavankumarreddy/Pizza-Sales--Analysis)** | SQL (CTEs, window functions), Power BI | Automated reporting + interactive KPI tracking |
+| **[Heart Disease Analysis Dashboard](https://github.com/Gudurupavankumarreddy/Heart-Disease-Analysis)** | Power BI | Survival analysis by age/gender with clinical risk factor flow |
+| **[NSE Stock Market Data Pipeline](https://github.com/Gudurupavankumarreddy/Indian-Stock-Market-Analysis)** | Python, yfinance, MySQL, Power BI, Prophet/ARIMA | End-to-end ingestion → forecasting → BI reporting |
 
 <div align="center">
   <a href="https://pavan-data-portfolio.netlify.app">
